@@ -1,3 +1,7 @@
+function setShare(){
+  
+}
+
 function kakaoShare(){
   Kakao.Link.sendDefault({
     objectType: 'feed',
